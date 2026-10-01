@@ -6,7 +6,9 @@
 - Each user can independently start a focus session.
 - When a user starts studying, other people in the room can see that they are currently focused.
 - Other room members can also see how long that person has been studying in the current session.
+- users stream thier videos, in the rooms, untill let others watch them its just like a competetion how much can you study.
 - Users who are not studying can simply stay in the room and see who is currently active.
+- Every one streams their video.
 - Every focus session is recorded.
 - The application keeps each user's daily study history.
 - Users can later view statistics such as total study time, number of sessions, daily progress, weekly progress, and streaks.
@@ -20,7 +22,7 @@ Harsha
 01:42:31
 
 Rahul
-🟢 Focusing
+🟢 Focusing -->
 00:37:18
 
 Ankit
@@ -33,10 +35,6 @@ Priya
 ---
 
 Your session
-
-        01:16:28
-
-     [ Stop Focus ]
 
 # workflow
 
